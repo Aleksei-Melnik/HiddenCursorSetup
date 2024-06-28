@@ -1,0 +1,16 @@
+{
+	"source" : "builtin",
+	"applications": [{
+		"app_key": "yami.CursorManager",
+		"launch_type": "binary",
+		"binary_path_windows": "SteamVR-CursorManager.exe",
+		"is_dashboard_overlay": true,
+
+		"strings": {
+			"en_us": {
+				"name": "Cursor Manager",
+				"description": "Hide the cursor to keep it out of the way when displaying the game in mirror."
+			}
+		}
+	}]
+}
